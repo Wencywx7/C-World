@@ -1,0 +1,9 @@
+#include <stdio.h>
+int main()
+{
+int iScore;
+iScore = 92;
+printf("A score of C language:");
+printf("%d\n",iScore);
+return 0;
+}
