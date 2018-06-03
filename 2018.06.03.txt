@@ -1,0 +1,15 @@
+#include<stdio.h>
+int add(int i1,int i2)
+{
+inti3;
+i3=i1+i2;
+return i3;
+}
+int main()
+{
+int i4=1;
+int i5=2;
+int i6=add(i4,i5);
+printf("%d",i6);
+return 0;
+}
